@@ -41,15 +41,15 @@ export const REPO = 'https://github.com/404SocialClub/404event';
 export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
-    name: 'Chapter 1',
+    name: 'Harga Peyok',
     route: '/stage/a'
   },
   {
-    name: 'Chapter 2',
+    name: 'Peyok Social Club',
     route: '/stage/c'
   },
   {
-    name: 'Chapter 3',
+    name: '404 Social Club',
     route: '/stage/m'
   },
   {

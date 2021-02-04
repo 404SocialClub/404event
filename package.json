@@ -1,13 +1,13 @@
 {
-  "name": "virtual-event-starter-kit",
-  "description": "Starter kit for your virtual event.",
+  "name": "404event",
+  "description": "404 Social Club virtual event.",
   "private": true,
-  "repository": "vercel/virtual-event-starter-kit",
-  "author": "Vercel Inc.",
-  "homepage": "https://demo.vercel.events",
+  "repository": "404SocialClub/404event",
+  "author": "404 Social Club x Vercel Inc.",
+  "homepage": "https://404event.vercel.app",
   "license": "Apache-2.0",
   "engines": {
-    "node": "12.x"
+    "node": "15.x"
   },
   "scripts": {
     "dev": "next",

@@ -7,7 +7,7 @@
   "homepage": "https://404event.vercel.app",
   "license": "Apache-2.0",
   "engines": {
-    "node": "15.x"
+    "node": "12.x"
   },
   "scripts": {
     "dev": "next",
